@@ -1,0 +1,26 @@
+---
+- name: Configuration du Cronjob Docker pour la purge automatique
+  hosts: all
+  become: true
+  tasks:
+    - name: Créer le script de purge Docker
+      copy:
+        src: ./scripts/docker_prune.sh
+        dest: /usr/local/bin/docker_prune.sh
+        mode: '0755'
+      notify: Reload cron
+
+    - name: Créer la tâche cron pour la purge Docker automatique
+      cron:
+        name: "Purge Docker automatique"
+        minute: "0"
+        hour: "1"
+        job: "/usr/local/bin/docker_prune.sh"
+        state: present
+      notify: Reload cron
+
+  handlers:
+    - name: Reload cron
+      service:
+        name: cron
+        state: reloaded
