@@ -1,0 +1,2742 @@
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+# Time: 2024-04-30T21:02:56.672781Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     8
+# Query_time: 0.006959  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+use drupal;
+SET timestamp=1714510976;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:02:56.677675Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     8
+# Query_time: 0.004548  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510976;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:02:58.330126Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     9
+# Query_time: 0.006130  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510978;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:02:58.336735Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     9
+# Query_time: 0.006205  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510978;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:02:58.875857Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    10
+# Query_time: 0.004404  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510978;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:02:58.880526Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    10
+# Query_time: 0.004515  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510978;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:00.396999Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.005074  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510980;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:00.403411Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.005780  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510980;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:01.753985Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.006751  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510981;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:01.760611Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.006236  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510981;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:02.809307Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.001315  Lock_time: 0.000015 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510982;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.054948Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.002023  Lock_time: 0.000016 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510983;
+UPDATE "search_dataset" SET "reindex"='1714510981'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:03.110725Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000233  Lock_time: 0.000001 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.265125Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.005840  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510983;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:03.272054Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.006632  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510983;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:03.497158Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000296  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.506288Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000332  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510983;
+UPDATE "search_dataset" SET "reindex"='1714510983'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:03.539746Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000233  Lock_time: 0.000003 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.601825Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000149  Lock_time: 0.000001 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.608800Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000186  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510983;
+UPDATE "search_dataset" SET "reindex"='1714510983'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:03.629121Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000145  Lock_time: 0.000001 Rows_sent: 46  Rows_examined: 46
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.708212Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000135  Lock_time: 0.000001 Rows_sent: 46  Rows_examined: 46
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.724722Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000181  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510983;
+UPDATE "search_dataset" SET "reindex"='1714510983'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:03.751944Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000200  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.845743Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000142  Lock_time: 0.000001 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:03.847980Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000190  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510983;
+UPDATE "search_dataset" SET "reindex"='1714510983'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:03.926619Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.002734  Lock_time: 0.000005 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714510983;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:04.103504Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000215  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714510984;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:04.118152Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000404  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510984;
+UPDATE "search_dataset" SET "reindex"='1714510983'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:04.261222Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000690  Lock_time: 0.000009 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714510984;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:04.471816Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000297  Lock_time: 0.000002 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714510984;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:04.477195Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000466  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510984;
+UPDATE "search_dataset" SET "reindex"='1714510983'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:04.520740Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000280  Lock_time: 0.000002 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714510984;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:04.990786Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.004806  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510984;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:04.996330Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.005134  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510984;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:05.418672Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000543  Lock_time: 0.000004 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714510985;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:05.453235Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.001304  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510985;
+UPDATE "search_dataset" SET "reindex"='1714510984'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:06.353098Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000209  Lock_time: 0.000001 Rows_sent: 52  Rows_examined: 52
+SET timestamp=1714510986;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:07.012022Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.030073  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510986;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:07.016866Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.004558  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510987;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:07.458731Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000219  Lock_time: 0.000001 Rows_sent: 52  Rows_examined: 52
+SET timestamp=1714510987;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:07.511567Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000272  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510987;
+UPDATE "search_dataset" SET "reindex"='1714510986'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:08.852380Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000870  Lock_time: 0.000007 Rows_sent: 56  Rows_examined: 56
+SET timestamp=1714510988;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:09.945065Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.005561  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510989;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:09.949757Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.004446  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510989;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:10.288764Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000238  Lock_time: 0.000001 Rows_sent: 56  Rows_examined: 56
+SET timestamp=1714510990;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:10.302961Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000263  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510990;
+UPDATE "search_dataset" SET "reindex"='1714510989'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:10.338161Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000238  Lock_time: 0.000003 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714510990;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:10.470895Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000177  Lock_time: 0.000002 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714510990;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:10.473370Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000181  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510990;
+UPDATE "search_dataset" SET "reindex"='1714510989'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:10.664091Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000175  Lock_time: 0.000002 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714510990;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:10.828981Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000270  Lock_time: 0.000002 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714510990;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:10.839108Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000352  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510990;
+UPDATE "search_dataset" SET "reindex"='1714510989'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:10.915481Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000443  Lock_time: 0.000006 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714510990;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:11.065134Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000271  Lock_time: 0.000003 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714510991;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:11.069698Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000332  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510991;
+UPDATE "search_dataset" SET "reindex"='1714510989'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:11.112054Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000301  Lock_time: 0.000002 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714510991;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:11.345366Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000149  Lock_time: 0.000001 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714510991;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:11.371909Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000243  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510991;
+UPDATE "search_dataset" SET "reindex"='1714510989'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:11.888145Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.004556  Lock_time: 0.000004 Rows_sent: 63  Rows_examined: 63
+SET timestamp=1714510991;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:13.019903Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.004435  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510993;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:13.024337Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.004268  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510993;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:13.523536Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000635  Lock_time: 0.000003 Rows_sent: 63  Rows_examined: 63
+SET timestamp=1714510993;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:13.551512Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000906  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510993;
+UPDATE "search_dataset" SET "reindex"='1714510992'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:13.640292Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000303  Lock_time: 0.000003 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714510993;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:13.800205Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000266  Lock_time: 0.000002 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714510993;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:13.804331Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000367  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510993;
+UPDATE "search_dataset" SET "reindex"='1714510992'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:13.856850Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000318  Lock_time: 0.000002 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714510993;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:13.984316Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000348  Lock_time: 0.000002 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714510993;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:14.012540Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000241  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510994;
+UPDATE "search_dataset" SET "reindex"='1714510992'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:14.063099Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000358  Lock_time: 0.000002 Rows_sent: 68  Rows_examined: 68
+SET timestamp=1714510994;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:14.220772Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000203  Lock_time: 0.000003 Rows_sent: 68  Rows_examined: 68
+SET timestamp=1714510994;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:14.229583Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000437  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510994;
+UPDATE "search_dataset" SET "reindex"='1714510992'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:14.273956Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000321  Lock_time: 0.000002 Rows_sent: 69  Rows_examined: 69
+SET timestamp=1714510994;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:14.946778Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.005234  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510994;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:14.951840Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.004847  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510994;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:15.382445Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000298  Lock_time: 0.000001 Rows_sent: 69  Rows_examined: 69
+SET timestamp=1714510995;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:15.414629Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000256  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510995;
+UPDATE "search_dataset" SET "reindex"='1714510994'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:16.150963Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000480  Lock_time: 0.000004 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714510996;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:16.307437Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000377  Lock_time: 0.000003 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714510996;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:16.313395Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000483  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510996;
+UPDATE "search_dataset" SET "reindex"='1714510994'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:16.371813Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000470  Lock_time: 0.000004 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714510996;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:16.921332Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.004166  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510996;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:16.925331Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.003838  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510996;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:17.343560Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000427  Lock_time: 0.000002 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714510997;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:17.380025Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.008854  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510997;
+UPDATE "search_dataset" SET "reindex"='1714510996'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:17.549846Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000182  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714510997;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:17.620823Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000169  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714510997;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:17.623917Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000194  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510997;
+UPDATE "search_dataset" SET "reindex"='1714510996'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:17.661008Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000170  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714510997;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:17.811928Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000543  Lock_time: 0.000004 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714510997;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:17.821996Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000512  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510997;
+UPDATE "search_dataset" SET "reindex"='1714510996'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:17.919904Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000443  Lock_time: 0.000003 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714510997;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:18.019960Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000172  Lock_time: 0.000002 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714510998;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:18.023132Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000184  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510998;
+UPDATE "search_dataset" SET "reindex"='1714510996'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:18.491841Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000517  Lock_time: 0.000005 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714510998;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:18.930045Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.004946  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714510998;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:18.934987Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.004704  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714510998;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:19.222563Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000272  Lock_time: 0.000001 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.250199Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000224  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510999;
+UPDATE "search_dataset" SET "reindex"='1714510998'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:19.310519Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000229  Lock_time: 0.000001 Rows_sent: 77  Rows_examined: 77
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.428975Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000165  Lock_time: 0.000001 Rows_sent: 77  Rows_examined: 77
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.446445Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000198  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510999;
+UPDATE "search_dataset" SET "reindex"='1714510998'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:19.484887Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000173  Lock_time: 0.000001 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.589779Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000184  Lock_time: 0.000001 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.592995Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000150  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510999;
+UPDATE "search_dataset" SET "reindex"='1714510998'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:19.645022Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000188  Lock_time: 0.000002 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.807245Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000740  Lock_time: 0.000005 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714510999;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:19.825069Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000361  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714510999;
+UPDATE "search_dataset" SET "reindex"='1714510998'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:20.157403Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000610  Lock_time: 0.000006 Rows_sent: 81  Rows_examined: 81
+SET timestamp=1714511000;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:20.935166Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.006178  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714511000;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:20.941453Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.005901  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714511000;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:21.182675Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000228  Lock_time: 0.000001 Rows_sent: 81  Rows_examined: 81
+SET timestamp=1714511001;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:21.213153Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000575  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714511001;
+UPDATE "search_dataset" SET "reindex"='1714511000'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:21.286670Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000608  Lock_time: 0.000004 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511001;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:21.426233Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.005346  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714511001;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:21.432126Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.005723  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714511001;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:21.751894Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.006422  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714511001;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:21.758942Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.006552  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714511001;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:22.150254Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000526  Lock_time: 0.000003 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511002;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:22.167213Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000292  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714511002;
+UPDATE "search_dataset" SET "reindex"='1714511001'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:22.168444Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000211  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511002;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:23.795200Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000195  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511003;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:23.800639Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000224  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714511003;
+UPDATE "search_dataset" SET "reindex"='1714511001'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:25.430146Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.001094  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 65
+SET timestamp=1714511005;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('announcements_feed.announcement', 'block.admin_display', 'entity.block_content_type.collection', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'standard.front_page', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.development_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'system.linkset_settings', 'entity.taxonomy_vocabulary.collection', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-04-30T21:03:27.325934Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000867  Lock_time: 0.000002 Rows_sent: 86  Rows_examined: 181
+SET timestamp=1714511007;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'announcements_feed.settings', 'automated_cron.settings', 'block.block.claro_breadcrumbs', 'block.block.claro_content', 'block.block.claro_help', 'block.block.claro_help_search', 'block.block.claro_local_actions', 'block.block.claro_messages', 'block.block.claro_page_title', 'block.block.claro_primary_local_tasks', 'block.block.claro_secondary_local_tasks', 'block.block.olivero_account_menu', 'block.block.olivero_breadcrumbs', 'block.block.olivero_content', 'block.block.olivero_help', 'block.block.olivero_main_menu', 'block.block.olivero_messages', 'block.block.olivero_page_title', 'block.block.olivero_powered', 'block.block.olivero_primary_admin_actions', 'block.block.olivero_primary_local_tasks', 'block.block.olivero_search_form_narrow', 'block.block.olivero_search_form_wide', 'block.block.olivero_secondary_local_tasks', 'block.block.olivero_site_branding', 'block.block.olivero_syndicate', 'claro.settings', 'comment.settings', 'contact.settings', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.olivero_medium', 'core.date_format.short', 'dblog.settings', 'field.settings', 'field_ui.settings', 'file.settings', 'image.settings', 'image.style.large', 'menu_ui.settings', 'olivero.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_unblock_user_action', 'system.cron', 'system.diff', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'user.flood', 'user.mail' );
+# Time: 2024-04-30T21:03:27.378977Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000349  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511007;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:50.761016Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.006411  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714511030;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:03:50.765791Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.004593  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714511030;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T21:03:51.171400Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000263  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511031;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:51.182807Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000276  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714511031;
+UPDATE "search_dataset" SET "reindex"='1714511030'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T21:03:51.236420Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.001275  Lock_time: 0.000003 Rows_sent: 163  Rows_examined: 182
+SET timestamp=1714511031;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'announcements_feed.settings', 'automated_cron.settings', 'block.block.claro_breadcrumbs', 'block.block.claro_content', 'block.block.claro_help', 'block.block.claro_help_search', 'block.block.claro_local_actions', 'block.block.claro_messages', 'block.block.claro_page_title', 'block.block.claro_primary_local_tasks', 'block.block.claro_secondary_local_tasks', 'block.block.olivero_account_menu', 'block.block.olivero_breadcrumbs', 'block.block.olivero_content', 'block.block.olivero_help', 'block.block.olivero_main_menu', 'block.block.olivero_messages', 'block.block.olivero_page_title', 'block.block.olivero_powered', 'block.block.olivero_primary_admin_actions', 'block.block.olivero_primary_local_tasks', 'block.block.olivero_search_form_narrow', 'block.block.olivero_search_form_wide', 'block.block.olivero_secondary_local_tasks', 'block.block.olivero_site_branding', 'block.block.olivero_syndicate', 'claro.settings', 'comment.settings', 'contact.settings', 'core.base_field_override.node.page.promote', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.olivero_medium', 'core.date_format.short', 'core.entity_form_display.block_content.basic.default', 'core.entity_form_display.comment.comment.default', 'core.entity_form_display.node.article.default', 'core.entity_form_display.node.page.default', 'core.entity_form_display.user.user.default', 'core.entity_form_mode.user.register', 'core.entity_view_display.block_content.basic.default', 'core.entity_view_display.comment.comment.default', 'core.entity_view_display.node.article.default', 'core.entity_view_display.node.article.rss', 'core.entity_view_display.node.article.teaser', 'core.entity_view_display.node.page.default', 'core.entity_view_display.node.page.teaser', 'core.entity_view_display.user.user.compact', 'core.entity_view_display.user.user.default', 'core.entity_view_mode.block_content.full', 'core.entity_view_mode.comment.full', 'core.entity_view_mode.node.full', 'core.entity_view_mode.node.rss', 'core.entity_view_mode.node.search_index', 'core.entity_view_mode.node.search_result', 'core.entity_view_mode.node.teaser', 'core.entity_view_mode.taxonomy_term.full', 'core.entity_view_mode.user.compact', 'core.entity_view_mode.user.full', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'editor.editor.basic_html', 'editor.editor.full_html', 'field.field.block_content.basic.body', 'field.field.comment.comment.comment_body', 'field.field.node.article.body', 'field.field.node.article.comment', 'field.field.node.article.field_image', 'field.field.node.article.field_tags', 'field.field.node.page.body', 'field.field.user.user.user_picture', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.basic_html', 'filter.format.full_html', 'filter.format.plain_text', 'filter.format.restricted_html', 'filter.settings', 'image.settings', 'image.style.large', 'image.style.medium', 'image.style.thumbnail', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'olivero.settings', 'search.page.help_search', 'search.page.node_search', 'search.page.user_search', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_add_role_action.administrator', 'system.action.user_add_role_action.content_editor', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_remove_role_action.administrator', 'system.action.user_remove_role_action.content_editor', 'system.action.user_unblock_user_action', 'system.cron', 'system.date', 'system.diff', 'system.feature_flags', 'system.file', 'system.image', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'user.flood', 'user.mail', 'user.role.administrator', 'user.role.anonymous', 'user.role.authenticated', 'user.role.content_editor', 'user.settings', 'views.settings', 'views.view.archive', 'views.view.block_content', 'views.view.comment', 'views.view.comments_recent', 'views.view.content', 'views.view.content_recent', 'views.view.files', 'views.view.frontpage', 'views.view.glossary', 'views.view.taxonomy_term', 'views.view.user_admin_people', 'views.view.watchdog', 'views.view.who_s_new', 'views.view.who_s_online' );
+# Time: 2024-04-30T21:03:51.261923Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000215  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511031;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:51.489173Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.005988  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 393
+SET timestamp=1714511031;
+DELETE FROM "router";
+# Time: 2024-04-30T21:03:51.627879Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000661  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 66
+SET timestamp=1714511031;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('announcements_feed.announcement', 'block.admin_display', 'entity.block_content_type.collection', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.development_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'system.linkset_settings', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-04-30T21:03:52.086660Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000834  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714511032;
+DELETE FROM "history" 
+WHERE "timestamp" < '1711919030';
+# Time: 2024-04-30T21:03:52.108069Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000300  Lock_time: 0.000003 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511032;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T21:03:52.109320Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000652  Lock_time: 0.000004 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714511032;
+SELECT "hsi"."sid" AS "sid", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."topic_id" AS "topic_id"
+FROM
+"help_search_items" "hsi"
+LEFT OUTER JOIN "search_dataset" "sd" ON "sd"."sid" = "hsi"."sid" AND "sd"."type" = 'help_search'
+WHERE ("sd"."sid" IS NULL)
+GROUP BY "hsi"."sid", "hsi"."section_plugin_id", "hsi"."topic_id"
+LIMIT 100 OFFSET 0;
+# Time: 2024-04-30T21:03:52.109926Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000291  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714511032;
+SELECT "hsi"."sid" AS "sid", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."topic_id" AS "topic_id"
+FROM
+"help_search_items" "hsi"
+LEFT OUTER JOIN "search_dataset" "sd" ON "sd"."sid" = "hsi"."sid" AND "sd"."type" = 'help_search'
+WHERE "sd"."reindex" <> '0'
+GROUP BY "hsi"."sid", "hsi"."section_plugin_id", "hsi"."topic_id"
+LIMIT 15 OFFSET 0;
+# Time: 2024-04-30T21:06:42.052228Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    25
+# Query_time: 0.007209  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714511202;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T21:06:42.068699Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    25
+# Query_time: 0.016079  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714511202;
+DELETE FROM "drupal_install_test";
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+# Time: 2024-04-30T23:57:55.951962Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     8
+# Query_time: 0.004711  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+use drupal;
+SET timestamp=1714521475;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:57:55.957929Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     8
+# Query_time: 0.004158  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521475;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:57:57.546297Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     9
+# Query_time: 0.004801  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521477;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:57:57.551412Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     9
+# Query_time: 0.004985  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521477;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:57:58.531288Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    10
+# Query_time: 0.003932  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521478;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:57:58.535347Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    10
+# Query_time: 0.003920  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521478;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:00.313713Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.005270  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521480;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:00.318113Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.004238  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521480;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:02.049103Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.005667  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521482;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:02.054623Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.005363  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521482;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:03.062781Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.001340  Lock_time: 0.000013 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521483;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:03.290821Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.001157  Lock_time: 0.000014 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521483;
+UPDATE "search_dataset" SET "reindex"='1714521481'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:03.333377Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000251  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714521483;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:03.467361Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000228  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714521483;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:03.470078Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000208  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521483;
+UPDATE "search_dataset" SET "reindex"='1714521481'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:03.492600Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000240  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714521483;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:03.633390Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000270  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714521483;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:03.642526Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000391  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521483;
+UPDATE "search_dataset" SET "reindex"='1714521481'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:03.675410Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000437  Lock_time: 0.000004 Rows_sent: 46  Rows_examined: 46
+SET timestamp=1714521483;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:03.863183Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.003918  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521483;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:03.867095Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.003777  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521483;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:04.452039Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000271  Lock_time: 0.000002 Rows_sent: 46  Rows_examined: 46
+SET timestamp=1714521484;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:04.492539Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000329  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521484;
+UPDATE "search_dataset" SET "reindex"='1714521483'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:04.541298Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000238  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714521484;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:04.683918Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000222  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714521484;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:04.687135Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000242  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521484;
+UPDATE "search_dataset" SET "reindex"='1714521483'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:04.747811Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000265  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714521484;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:04.871305Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000254  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714521484;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:04.878992Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000224  Lock_time: 0.000013 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521484;
+UPDATE "search_dataset" SET "reindex"='1714521483'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:04.949225Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000268  Lock_time: 0.000003 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714521484;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:05.078851Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000278  Lock_time: 0.000003 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714521485;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:05.082245Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000226  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521485;
+UPDATE "search_dataset" SET "reindex"='1714521483'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:05.117223Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000279  Lock_time: 0.000002 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714521485;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:05.267748Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000254  Lock_time: 0.000002 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714521485;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:05.279704Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000203  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521485;
+UPDATE "search_dataset" SET "reindex"='1714521483'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:05.795712Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000272  Lock_time: 0.000002 Rows_sent: 52  Rows_examined: 52
+SET timestamp=1714521485;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:05.955545Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.003788  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521485;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:05.959362Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.003685  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521485;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:06.643423Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000375  Lock_time: 0.000002 Rows_sent: 52  Rows_examined: 52
+SET timestamp=1714521486;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:06.676590Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000362  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521486;
+UPDATE "search_dataset" SET "reindex"='1714521485'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:07.478949Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000304  Lock_time: 0.000002 Rows_sent: 56  Rows_examined: 56
+SET timestamp=1714521487;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:07.638575Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.004746  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521487;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:07.643744Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.005035  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521487;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:08.198954Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000323  Lock_time: 0.000002 Rows_sent: 56  Rows_examined: 56
+SET timestamp=1714521488;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:08.217312Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000301  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521488;
+UPDATE "search_dataset" SET "reindex"='1714521487'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:08.267987Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000276  Lock_time: 0.000003 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714521488;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:08.467499Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000276  Lock_time: 0.000002 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714521488;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:08.470844Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000250  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521488;
+UPDATE "search_dataset" SET "reindex"='1714521487'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:08.673883Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000315  Lock_time: 0.000003 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714521488;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:08.837864Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000281  Lock_time: 0.000001 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714521488;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:08.846116Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000256  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521488;
+UPDATE "search_dataset" SET "reindex"='1714521487'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:08.906986Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000323  Lock_time: 0.000004 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714521488;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:09.056609Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000287  Lock_time: 0.000002 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714521489;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:09.060203Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000215  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521489;
+UPDATE "search_dataset" SET "reindex"='1714521487'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:09.098567Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000340  Lock_time: 0.000003 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714521489;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:09.269547Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.004831  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521489;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:09.273766Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.004096  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521489;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:09.973111Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000365  Lock_time: 0.000002 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714521489;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:10.012366Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000372  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521490;
+UPDATE "search_dataset" SET "reindex"='1714521489'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:10.566795Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000334  Lock_time: 0.000003 Rows_sent: 63  Rows_examined: 63
+SET timestamp=1714521490;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:10.720861Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000346  Lock_time: 0.000003 Rows_sent: 63  Rows_examined: 63
+SET timestamp=1714521490;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:10.731566Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000247  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521490;
+UPDATE "search_dataset" SET "reindex"='1714521489'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:10.778768Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000352  Lock_time: 0.000003 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714521490;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:10.949505Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.005951  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521490;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:10.953848Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.004203  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521490;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:11.694894Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000397  Lock_time: 0.000003 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714521491;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:11.712589Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000396  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521491;
+UPDATE "search_dataset" SET "reindex"='1714521490'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:11.791212Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000426  Lock_time: 0.000003 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714521491;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:11.983991Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000415  Lock_time: 0.000003 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714521491;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:12.007491Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000227  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521492;
+UPDATE "search_dataset" SET "reindex"='1714521490'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:12.063301Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000340  Lock_time: 0.000002 Rows_sent: 68  Rows_examined: 68
+SET timestamp=1714521492;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:12.247547Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000474  Lock_time: 0.000003 Rows_sent: 68  Rows_examined: 68
+SET timestamp=1714521492;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:12.257528Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000318  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521492;
+UPDATE "search_dataset" SET "reindex"='1714521490'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:12.304183Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000389  Lock_time: 0.000004 Rows_sent: 69  Rows_examined: 69
+SET timestamp=1714521492;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:12.512041Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000303  Lock_time: 0.000002 Rows_sent: 69  Rows_examined: 69
+SET timestamp=1714521492;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:12.525777Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000346  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521492;
+UPDATE "search_dataset" SET "reindex"='1714521490'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:13.214350Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000302  Lock_time: 0.000002 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714521493;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:13.397688Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.004365  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521493;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:13.402082Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.004128  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521493;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:14.132116Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000395  Lock_time: 0.000002 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.147599Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000400  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521494;
+UPDATE "search_dataset" SET "reindex"='1714521493'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:14.215559Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000328  Lock_time: 0.000002 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.370926Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000305  Lock_time: 0.000001 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.395795Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000274  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521494;
+UPDATE "search_dataset" SET "reindex"='1714521493'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:14.532869Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000321  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.674103Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000261  Lock_time: 0.000001 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.679261Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000270  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521494;
+UPDATE "search_dataset" SET "reindex"='1714521493'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:14.723646Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000270  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.910827Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000297  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714521494;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:14.920505Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000209  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521494;
+UPDATE "search_dataset" SET "reindex"='1714521493'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:15.002477Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000298  Lock_time: 0.000003 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714521495;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:15.182810Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.004301  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521495;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:15.187286Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.004144  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521495;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:15.943911Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000418  Lock_time: 0.000003 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714521495;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:15.963300Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000389  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521495;
+UPDATE "search_dataset" SET "reindex"='1714521495'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:16.430448Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000395  Lock_time: 0.000003 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714521496;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:16.650233Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000460  Lock_time: 0.000003 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714521496;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:16.679606Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000366  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521496;
+UPDATE "search_dataset" SET "reindex"='1714521495'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:16.755196Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000467  Lock_time: 0.000004 Rows_sent: 77  Rows_examined: 77
+SET timestamp=1714521496;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:16.962570Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.004378  Lock_time: 0.000016 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521496;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:16.979523Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.016560  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521496;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:17.791343Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000402  Lock_time: 0.000003 Rows_sent: 77  Rows_examined: 77
+SET timestamp=1714521497;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:17.823513Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000299  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521497;
+UPDATE "search_dataset" SET "reindex"='1714521496'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:17.894542Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000326  Lock_time: 0.000002 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714521497;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:18.055709Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000301  Lock_time: 0.000001 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714521498;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:18.060841Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000304  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521498;
+UPDATE "search_dataset" SET "reindex"='1714521496'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:18.116611Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000328  Lock_time: 0.000002 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714521498;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:18.324818Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000307  Lock_time: 0.000003 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714521498;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:18.334510Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000228  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521498;
+UPDATE "search_dataset" SET "reindex"='1714521496'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:18.633777Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.000334  Lock_time: 0.000002 Rows_sent: 81  Rows_examined: 81
+SET timestamp=1714521498;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:18.804595Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.004984  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521498;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:18.808829Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.003983  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521498;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:19.577147Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000914  Lock_time: 0.000004 Rows_sent: 81  Rows_examined: 81
+SET timestamp=1714521499;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:19.626358Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000460  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521499;
+UPDATE "search_dataset" SET "reindex"='1714521498'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:19.727248Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000482  Lock_time: 0.000003 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521499;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:19.893144Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.005220  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521499;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:19.897264Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.003999  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521499;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:20.615680Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.005180  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521500;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:20.621149Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.005120  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521500;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:21.388090Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000341  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521501;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:21.413742Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000471  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521501;
+UPDATE "search_dataset" SET "reindex"='1714521500'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:21.416175Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000573  Lock_time: 0.000005 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521501;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:23.270188Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000752  Lock_time: 0.000006 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521503;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:23.277345Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000293  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521503;
+UPDATE "search_dataset" SET "reindex"='1714521500'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:24.592916Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.001055  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 65
+SET timestamp=1714521504;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('announcements_feed.announcement', 'block.admin_display', 'entity.block_content_type.collection', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'standard.front_page', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.development_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'system.linkset_settings', 'entity.taxonomy_vocabulary.collection', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-04-30T23:58:25.968502Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.001235  Lock_time: 0.000002 Rows_sent: 86  Rows_examined: 181
+SET timestamp=1714521505;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'announcements_feed.settings', 'automated_cron.settings', 'block.block.claro_breadcrumbs', 'block.block.claro_content', 'block.block.claro_help', 'block.block.claro_help_search', 'block.block.claro_local_actions', 'block.block.claro_messages', 'block.block.claro_page_title', 'block.block.claro_primary_local_tasks', 'block.block.claro_secondary_local_tasks', 'block.block.olivero_account_menu', 'block.block.olivero_breadcrumbs', 'block.block.olivero_content', 'block.block.olivero_help', 'block.block.olivero_main_menu', 'block.block.olivero_messages', 'block.block.olivero_page_title', 'block.block.olivero_powered', 'block.block.olivero_primary_admin_actions', 'block.block.olivero_primary_local_tasks', 'block.block.olivero_search_form_narrow', 'block.block.olivero_search_form_wide', 'block.block.olivero_secondary_local_tasks', 'block.block.olivero_site_branding', 'block.block.olivero_syndicate', 'claro.settings', 'comment.settings', 'contact.settings', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.olivero_medium', 'core.date_format.short', 'dblog.settings', 'field.settings', 'field_ui.settings', 'file.settings', 'image.settings', 'image.style.large', 'menu_ui.settings', 'olivero.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_unblock_user_action', 'system.cron', 'system.diff', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'user.flood', 'user.mail' );
+# Time: 2024-04-30T23:58:26.057434Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    23
+# Query_time: 0.000315  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521506;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:43.942243Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.004869  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521523;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-04-30T23:58:43.947511Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.005121  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521523;
+DELETE FROM "drupal_install_test";
+# Time: 2024-04-30T23:58:44.933986Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000400  Lock_time: 0.000003 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521524;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:44.954844Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000341  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521524;
+UPDATE "search_dataset" SET "reindex"='1714521523'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-04-30T23:58:45.054266Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.002458  Lock_time: 0.000003 Rows_sent: 163  Rows_examined: 182
+SET timestamp=1714521525;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'announcements_feed.settings', 'automated_cron.settings', 'block.block.claro_breadcrumbs', 'block.block.claro_content', 'block.block.claro_help', 'block.block.claro_help_search', 'block.block.claro_local_actions', 'block.block.claro_messages', 'block.block.claro_page_title', 'block.block.claro_primary_local_tasks', 'block.block.claro_secondary_local_tasks', 'block.block.olivero_account_menu', 'block.block.olivero_breadcrumbs', 'block.block.olivero_content', 'block.block.olivero_help', 'block.block.olivero_main_menu', 'block.block.olivero_messages', 'block.block.olivero_page_title', 'block.block.olivero_powered', 'block.block.olivero_primary_admin_actions', 'block.block.olivero_primary_local_tasks', 'block.block.olivero_search_form_narrow', 'block.block.olivero_search_form_wide', 'block.block.olivero_secondary_local_tasks', 'block.block.olivero_site_branding', 'block.block.olivero_syndicate', 'claro.settings', 'comment.settings', 'contact.settings', 'core.base_field_override.node.page.promote', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.olivero_medium', 'core.date_format.short', 'core.entity_form_display.block_content.basic.default', 'core.entity_form_display.comment.comment.default', 'core.entity_form_display.node.article.default', 'core.entity_form_display.node.page.default', 'core.entity_form_display.user.user.default', 'core.entity_form_mode.user.register', 'core.entity_view_display.block_content.basic.default', 'core.entity_view_display.comment.comment.default', 'core.entity_view_display.node.article.default', 'core.entity_view_display.node.article.rss', 'core.entity_view_display.node.article.teaser', 'core.entity_view_display.node.page.default', 'core.entity_view_display.node.page.teaser', 'core.entity_view_display.user.user.compact', 'core.entity_view_display.user.user.default', 'core.entity_view_mode.block_content.full', 'core.entity_view_mode.comment.full', 'core.entity_view_mode.node.full', 'core.entity_view_mode.node.rss', 'core.entity_view_mode.node.search_index', 'core.entity_view_mode.node.search_result', 'core.entity_view_mode.node.teaser', 'core.entity_view_mode.taxonomy_term.full', 'core.entity_view_mode.user.compact', 'core.entity_view_mode.user.full', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'editor.editor.basic_html', 'editor.editor.full_html', 'field.field.block_content.basic.body', 'field.field.comment.comment.comment_body', 'field.field.node.article.body', 'field.field.node.article.comment', 'field.field.node.article.field_image', 'field.field.node.article.field_tags', 'field.field.node.page.body', 'field.field.user.user.user_picture', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.basic_html', 'filter.format.full_html', 'filter.format.plain_text', 'filter.format.restricted_html', 'filter.settings', 'image.settings', 'image.style.large', 'image.style.medium', 'image.style.thumbnail', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'olivero.settings', 'search.page.help_search', 'search.page.node_search', 'search.page.user_search', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_add_role_action.administrator', 'system.action.user_add_role_action.content_editor', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_remove_role_action.administrator', 'system.action.user_remove_role_action.content_editor', 'system.action.user_unblock_user_action', 'system.cron', 'system.date', 'system.diff', 'system.feature_flags', 'system.file', 'system.image', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'user.flood', 'user.mail', 'user.role.administrator', 'user.role.anonymous', 'user.role.authenticated', 'user.role.content_editor', 'user.settings', 'views.settings', 'views.view.archive', 'views.view.block_content', 'views.view.comment', 'views.view.comments_recent', 'views.view.content', 'views.view.content_recent', 'views.view.files', 'views.view.frontpage', 'views.view.glossary', 'views.view.taxonomy_term', 'views.view.user_admin_people', 'views.view.watchdog', 'views.view.who_s_new', 'views.view.who_s_online' );
+# Time: 2024-04-30T23:58:45.085535Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000373  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521525;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:45.505646Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.011152  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 393
+SET timestamp=1714521525;
+DELETE FROM "router";
+# Time: 2024-04-30T23:58:45.733968Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.001200  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 66
+SET timestamp=1714521525;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('announcements_feed.announcement', 'block.admin_display', 'entity.block_content_type.collection', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.development_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'system.linkset_settings', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-04-30T23:58:46.155344Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.001134  Lock_time: 0.000009 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521526;
+DELETE FROM "history" 
+WHERE "timestamp" < '1711929523';
+# Time: 2024-04-30T23:58:46.177066Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000397  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521526;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-04-30T23:58:46.178515Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000863  Lock_time: 0.000005 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714521526;
+SELECT "hsi"."sid" AS "sid", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."topic_id" AS "topic_id"
+FROM
+"help_search_items" "hsi"
+LEFT OUTER JOIN "search_dataset" "sd" ON "sd"."sid" = "hsi"."sid" AND "sd"."type" = 'help_search'
+WHERE ("sd"."sid" IS NULL)
+GROUP BY "hsi"."sid", "hsi"."section_plugin_id", "hsi"."topic_id"
+LIMIT 100 OFFSET 0;
+# Time: 2024-04-30T23:58:46.179220Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    24
+# Query_time: 0.000373  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714521526;
+SELECT "hsi"."sid" AS "sid", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."topic_id" AS "topic_id"
+FROM
+"help_search_items" "hsi"
+LEFT OUTER JOIN "search_dataset" "sd" ON "sd"."sid" = "hsi"."sid" AND "sd"."type" = 'help_search'
+WHERE "sd"."reindex" <> '0'
+GROUP BY "hsi"."sid", "hsi"."section_plugin_id", "hsi"."topic_id"
+LIMIT 15 OFFSET 0;
+# Time: 2024-05-01T00:02:49.868109Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    25
+# Query_time: 0.004260  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714521769;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:02:49.873453Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    25
+# Query_time: 0.005072  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714521769;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:16:29.347727Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    27
+# Query_time: 0.001454  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714522589;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.olivero_account_menu', 'config:block.block.olivero_breadcrumbs', 'config:block.block.olivero_content', 'config:block.block.olivero_help', 'config:block.block.olivero_main_menu', 'config:block.block.olivero_messages', 'config:block.block.olivero_page_title', 'config:block.block.olivero_powered', 'config:block.block.olivero_primary_admin_actions', 'config:block.block.olivero_primary_local_tasks', 'config:block.block.olivero_search_form_narrow', 'config:block.block.olivero_search_form_wide', 'config:block.block.olivero_secondary_local_tasks', 'config:block.block.olivero_site_branding', 'config:block.block.olivero_syndicate', 'config:block_list', 'config:search.settings', 'config:system.menu.account', 'config:system.menu.main', 'config:system.site', 'config:user.role.anonymous', 'config:views.view.frontpage', 'http_response', 'local_task', 'node_list', 'rendered' );
+# Time: 2024-05-01T00:16:29.506644Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    28
+# Query_time: 0.000602  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714522589;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.olivero_account_menu', 'config:block.block.olivero_breadcrumbs', 'config:block.block.olivero_content', 'config:block.block.olivero_help', 'config:block.block.olivero_main_menu', 'config:block.block.olivero_messages', 'config:block.block.olivero_page_title', 'config:block.block.olivero_powered', 'config:block.block.olivero_primary_admin_actions', 'config:block.block.olivero_primary_local_tasks', 'config:block.block.olivero_search_form_narrow', 'config:block.block.olivero_search_form_wide', 'config:block.block.olivero_secondary_local_tasks', 'config:block.block.olivero_site_branding', 'config:block.block.olivero_syndicate', 'config:block_list', 'config:search.settings', 'config:system.menu.account', 'config:system.menu.main', 'config:system.site', 'config:user.role.anonymous', 'config:views.view.frontpage', 'http_response', 'local_task', 'node_list', 'rendered' );
+# Time: 2024-05-01T00:18:01.433289Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    29
+# Query_time: 0.000419  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714522681;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.olivero_account_menu', 'config:block.block.olivero_breadcrumbs', 'config:block.block.olivero_content', 'config:block.block.olivero_help', 'config:block.block.olivero_main_menu', 'config:block.block.olivero_messages', 'config:block.block.olivero_page_title', 'config:block.block.olivero_powered', 'config:block.block.olivero_primary_admin_actions', 'config:block.block.olivero_primary_local_tasks', 'config:block.block.olivero_search_form_narrow', 'config:block.block.olivero_search_form_wide', 'config:block.block.olivero_secondary_local_tasks', 'config:block.block.olivero_site_branding', 'config:block.block.olivero_syndicate', 'config:block_list', 'config:search.settings', 'config:system.menu.account', 'config:system.menu.main', 'config:system.site', 'config:user.role.anonymous', 'config:views.view.frontpage', 'http_response', 'local_task', 'node_list', 'rendered' );
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.36 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+# Time: 2024-05-01T00:30:08.294093Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     8
+# Query_time: 0.006415  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+use drupal;
+SET timestamp=1714523408;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:08.302562Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     8
+# Query_time: 0.006736  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523408;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:10.010424Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     9
+# Query_time: 0.004848  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523410;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:10.016500Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:     9
+# Query_time: 0.005883  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523410;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:10.509130Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    10
+# Query_time: 0.004287  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523410;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:10.513377Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    10
+# Query_time: 0.004125  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523410;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:12.023899Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.004330  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523412;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:12.028116Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.004086  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523412;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:13.340116Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.001133  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523413;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:13.617000Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.001295  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523413;
+UPDATE "search_dataset" SET "reindex"='1714523411'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:13.696030Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    11
+# Query_time: 0.000513  Lock_time: 0.000005 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714523413;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:13.843682Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.006338  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523413;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:13.849348Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.005203  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523413;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:14.116231Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000278  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.125571Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000365  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523414;
+UPDATE "search_dataset" SET "reindex"='1714523413'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:14.160452Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.001295  Lock_time: 0.000003 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.246793Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000163  Lock_time: 0.000002 Rows_sent: 45  Rows_examined: 45
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.255180Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000579  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523414;
+UPDATE "search_dataset" SET "reindex"='1714523413'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:14.290382Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000331  Lock_time: 0.000003 Rows_sent: 46  Rows_examined: 46
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.386285Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000128  Lock_time: 0.000001 Rows_sent: 46  Rows_examined: 46
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.403396Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000226  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523414;
+UPDATE "search_dataset" SET "reindex"='1714523413'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:14.442476Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000165  Lock_time: 0.000002 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.551091Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000144  Lock_time: 0.000001 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.553146Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000141  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523414;
+UPDATE "search_dataset" SET "reindex"='1714523413'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:14.624119Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000557  Lock_time: 0.000005 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.751246Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000196  Lock_time: 0.000001 Rows_sent: 49  Rows_examined: 49
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.758317Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000451  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523414;
+UPDATE "search_dataset" SET "reindex"='1714523413'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:14.848558Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000589  Lock_time: 0.000005 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.982136Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000152  Lock_time: 0.000001 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714523414;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:14.984302Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000155  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523414;
+UPDATE "search_dataset" SET "reindex"='1714523413'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:15.011433Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    12
+# Query_time: 0.000146  Lock_time: 0.000001 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714523415;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:15.101391Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.006250  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523415;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:15.105665Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.004153  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523415;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:15.410118Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000539  Lock_time: 0.000032 Rows_sent: 50  Rows_examined: 50
+SET timestamp=1714523415;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:15.428833Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000360  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523415;
+UPDATE "search_dataset" SET "reindex"='1714523415'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:16.147934Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000595  Lock_time: 0.000005 Rows_sent: 52  Rows_examined: 52
+SET timestamp=1714523416;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:16.341010Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000265  Lock_time: 0.000002 Rows_sent: 52  Rows_examined: 52
+SET timestamp=1714523416;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:16.366685Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000458  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523416;
+UPDATE "search_dataset" SET "reindex"='1714523415'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:17.505355Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    13
+# Query_time: 0.000573  Lock_time: 0.000005 Rows_sent: 56  Rows_examined: 56
+SET timestamp=1714523417;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:17.640846Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.006342  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523417;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:17.647082Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.005830  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523417;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:17.918364Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000235  Lock_time: 0.000001 Rows_sent: 56  Rows_examined: 56
+SET timestamp=1714523417;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:17.933884Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000261  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523417;
+UPDATE "search_dataset" SET "reindex"='1714523417'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:17.977812Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000259  Lock_time: 0.000001 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714523417;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.164896Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000641  Lock_time: 0.000006 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714523418;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.173157Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000522  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523418;
+UPDATE "search_dataset" SET "reindex"='1714523417'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:18.481884Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000379  Lock_time: 0.000003 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714523418;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.604462Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000161  Lock_time: 0.000001 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1714523418;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.611453Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000150  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523418;
+UPDATE "search_dataset" SET "reindex"='1714523417'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:18.660643Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000668  Lock_time: 0.000006 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714523418;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.775100Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000160  Lock_time: 0.000001 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714523418;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.777515Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000139  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523418;
+UPDATE "search_dataset" SET "reindex"='1714523417'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:18.804035Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    14
+# Query_time: 0.000188  Lock_time: 0.000001 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714523418;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:18.939474Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.007190  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523418;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:18.947358Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.007600  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523418;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:19.302210Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000350  Lock_time: 0.000002 Rows_sent: 58  Rows_examined: 58
+SET timestamp=1714523419;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:19.336612Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000331  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523419;
+UPDATE "search_dataset" SET "reindex"='1714523418'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:20.049761Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000587  Lock_time: 0.000005 Rows_sent: 63  Rows_examined: 63
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:20.169016Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000158  Lock_time: 0.000001 Rows_sent: 63  Rows_examined: 63
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:20.176846Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000142  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523420;
+UPDATE "search_dataset" SET "reindex"='1714523418'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:20.205549Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    15
+# Query_time: 0.000144  Lock_time: 0.000001 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:20.342094Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.005055  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523420;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:20.348207Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.005876  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523420;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:20.690660Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000253  Lock_time: 0.000002 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:20.701832Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000335  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523420;
+UPDATE "search_dataset" SET "reindex"='1714523420'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:20.750271Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000248  Lock_time: 0.000002 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:20.848626Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000191  Lock_time: 0.000001 Rows_sent: 64  Rows_examined: 64
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:20.872845Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000474  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523420;
+UPDATE "search_dataset" SET "reindex"='1714523420'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:20.943985Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000202  Lock_time: 0.000001 Rows_sent: 68  Rows_examined: 68
+SET timestamp=1714523420;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:21.120856Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000587  Lock_time: 0.000004 Rows_sent: 68  Rows_examined: 68
+SET timestamp=1714523421;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:21.136892Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000483  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523421;
+UPDATE "search_dataset" SET "reindex"='1714523420'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:21.204745Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000565  Lock_time: 0.000004 Rows_sent: 69  Rows_examined: 69
+SET timestamp=1714523421;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:21.314184Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000150  Lock_time: 0.000002 Rows_sent: 69  Rows_examined: 69
+SET timestamp=1714523421;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:21.325639Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000142  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523421;
+UPDATE "search_dataset" SET "reindex"='1714523420'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:22.164842Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    16
+# Query_time: 0.000555  Lock_time: 0.000005 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714523422;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:22.319522Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.006912  Lock_time: 0.000009 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523422;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:22.325145Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.005187  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523422;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:22.598195Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000428  Lock_time: 0.000001 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714523422;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:22.609941Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000307  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523422;
+UPDATE "search_dataset" SET "reindex"='1714523422'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:22.659162Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000619  Lock_time: 0.000005 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714523422;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:22.765600Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000163  Lock_time: 0.000002 Rows_sent: 71  Rows_examined: 71
+SET timestamp=1714523422;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:22.772986Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000146  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523422;
+UPDATE "search_dataset" SET "reindex"='1714523422'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:22.904539Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000625  Lock_time: 0.000005 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714523422;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:23.031769Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000168  Lock_time: 0.000001 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714523423;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:23.034687Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000142  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523423;
+UPDATE "search_dataset" SET "reindex"='1714523422'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:23.067049Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000170  Lock_time: 0.000001 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714523423;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:23.193737Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000282  Lock_time: 0.000002 Rows_sent: 72  Rows_examined: 72
+SET timestamp=1714523423;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:23.203451Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000171  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523423;
+UPDATE "search_dataset" SET "reindex"='1714523422'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:23.269351Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000569  Lock_time: 0.000005 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714523423;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:23.401529Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000216  Lock_time: 0.000001 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714523423;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:23.404559Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000145  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523423;
+UPDATE "search_dataset" SET "reindex"='1714523422'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:23.954202Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    17
+# Query_time: 0.000186  Lock_time: 0.000002 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714523423;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.065078Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.004664  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523424;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:24.069949Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.004634  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523424;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:24.409117Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000328  Lock_time: 0.000003 Rows_sent: 73  Rows_examined: 73
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.441389Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000410  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523424;
+UPDATE "search_dataset" SET "reindex"='1714523423'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:24.513730Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000397  Lock_time: 0.000003 Rows_sent: 77  Rows_examined: 77
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.626142Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000166  Lock_time: 0.000002 Rows_sent: 77  Rows_examined: 77
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.644075Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000471  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523424;
+UPDATE "search_dataset" SET "reindex"='1714523423'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:24.691020Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000280  Lock_time: 0.000001 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.792914Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000170  Lock_time: 0.000002 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.796241Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000147  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523424;
+UPDATE "search_dataset" SET "reindex"='1714523423'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:24.843469Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000180  Lock_time: 0.000001 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:24.999589Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000652  Lock_time: 0.000004 Rows_sent: 80  Rows_examined: 80
+SET timestamp=1714523424;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:25.017099Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000318  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523425;
+UPDATE "search_dataset" SET "reindex"='1714523423'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:25.399137Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    18
+# Query_time: 0.000233  Lock_time: 0.000003 Rows_sent: 81  Rows_examined: 81
+SET timestamp=1714523425;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:25.543089Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.006807  Lock_time: 0.000009 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523425;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:25.549359Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.005834  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523425;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:25.860161Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000408  Lock_time: 0.000002 Rows_sent: 81  Rows_examined: 81
+SET timestamp=1714523425;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:25.896186Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.001129  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523425;
+UPDATE "search_dataset" SET "reindex"='1714523425'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:25.972879Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    19
+# Query_time: 0.000331  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523425;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:26.073416Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.004672  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523426;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:26.077566Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    20
+# Query_time: 0.003987  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523426;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:26.329948Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.004184  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523426;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:26.334290Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.004191  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523426;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:26.724451Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000401  Lock_time: 0.000003 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523426;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:26.739187Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000347  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523426;
+UPDATE "search_dataset" SET "reindex"='1714523426'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:26.740622Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000237  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523426;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:28.472992Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000188  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523428;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:28.476726Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000189  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523428;
+UPDATE "search_dataset" SET "reindex"='1714523426'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:30.156883Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.002178  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 65
+SET timestamp=1714523430;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('announcements_feed.announcement', 'block.admin_display', 'entity.block_content_type.collection', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'standard.front_page', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.development_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'system.linkset_settings', 'entity.taxonomy_vocabulary.collection', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-05-01T00:30:32.040333Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.001518  Lock_time: 0.000005 Rows_sent: 86  Rows_examined: 181
+SET timestamp=1714523432;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'announcements_feed.settings', 'automated_cron.settings', 'block.block.claro_breadcrumbs', 'block.block.claro_content', 'block.block.claro_help', 'block.block.claro_help_search', 'block.block.claro_local_actions', 'block.block.claro_messages', 'block.block.claro_page_title', 'block.block.claro_primary_local_tasks', 'block.block.claro_secondary_local_tasks', 'block.block.olivero_account_menu', 'block.block.olivero_breadcrumbs', 'block.block.olivero_content', 'block.block.olivero_help', 'block.block.olivero_main_menu', 'block.block.olivero_messages', 'block.block.olivero_page_title', 'block.block.olivero_powered', 'block.block.olivero_primary_admin_actions', 'block.block.olivero_primary_local_tasks', 'block.block.olivero_search_form_narrow', 'block.block.olivero_search_form_wide', 'block.block.olivero_secondary_local_tasks', 'block.block.olivero_site_branding', 'block.block.olivero_syndicate', 'claro.settings', 'comment.settings', 'contact.settings', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.olivero_medium', 'core.date_format.short', 'dblog.settings', 'field.settings', 'field_ui.settings', 'file.settings', 'image.settings', 'image.style.large', 'menu_ui.settings', 'olivero.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_unblock_user_action', 'system.cron', 'system.diff', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'user.flood', 'user.mail' );
+# Time: 2024-05-01T00:30:32.110274Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    21
+# Query_time: 0.000286  Lock_time: 0.000002 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523432;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:54.296772Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.007863  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714523454;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-01T00:30:54.301778Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.004634  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714523454;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-01T00:30:54.745672Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.000310  Lock_time: 0.000001 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523454;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:54.758122Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.000285  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523454;
+UPDATE "search_dataset" SET "reindex"='1714523454'
+WHERE ("reindex" = '0') AND ("type" = 'help_search');
+# Time: 2024-05-01T00:30:54.813137Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.001314  Lock_time: 0.000003 Rows_sent: 163  Rows_examined: 182
+SET timestamp=1714523454;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'announcements_feed.settings', 'automated_cron.settings', 'block.block.claro_breadcrumbs', 'block.block.claro_content', 'block.block.claro_help', 'block.block.claro_help_search', 'block.block.claro_local_actions', 'block.block.claro_messages', 'block.block.claro_page_title', 'block.block.claro_primary_local_tasks', 'block.block.claro_secondary_local_tasks', 'block.block.olivero_account_menu', 'block.block.olivero_breadcrumbs', 'block.block.olivero_content', 'block.block.olivero_help', 'block.block.olivero_main_menu', 'block.block.olivero_messages', 'block.block.olivero_page_title', 'block.block.olivero_powered', 'block.block.olivero_primary_admin_actions', 'block.block.olivero_primary_local_tasks', 'block.block.olivero_search_form_narrow', 'block.block.olivero_search_form_wide', 'block.block.olivero_secondary_local_tasks', 'block.block.olivero_site_branding', 'block.block.olivero_syndicate', 'claro.settings', 'comment.settings', 'contact.settings', 'core.base_field_override.node.page.promote', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.olivero_medium', 'core.date_format.short', 'core.entity_form_display.block_content.basic.default', 'core.entity_form_display.comment.comment.default', 'core.entity_form_display.node.article.default', 'core.entity_form_display.node.page.default', 'core.entity_form_display.user.user.default', 'core.entity_form_mode.user.register', 'core.entity_view_display.block_content.basic.default', 'core.entity_view_display.comment.comment.default', 'core.entity_view_display.node.article.default', 'core.entity_view_display.node.article.rss', 'core.entity_view_display.node.article.teaser', 'core.entity_view_display.node.page.default', 'core.entity_view_display.node.page.teaser', 'core.entity_view_display.user.user.compact', 'core.entity_view_display.user.user.default', 'core.entity_view_mode.block_content.full', 'core.entity_view_mode.comment.full', 'core.entity_view_mode.node.full', 'core.entity_view_mode.node.rss', 'core.entity_view_mode.node.search_index', 'core.entity_view_mode.node.search_result', 'core.entity_view_mode.node.teaser', 'core.entity_view_mode.taxonomy_term.full', 'core.entity_view_mode.user.compact', 'core.entity_view_mode.user.full', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'editor.editor.basic_html', 'editor.editor.full_html', 'field.field.block_content.basic.body', 'field.field.comment.comment.comment_body', 'field.field.node.article.body', 'field.field.node.article.comment', 'field.field.node.article.field_image', 'field.field.node.article.field_tags', 'field.field.node.page.body', 'field.field.user.user.user_picture', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.basic_html', 'filter.format.full_html', 'filter.format.plain_text', 'filter.format.restricted_html', 'filter.settings', 'image.settings', 'image.style.large', 'image.style.medium', 'image.style.thumbnail', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'olivero.settings', 'search.page.help_search', 'search.page.node_search', 'search.page.user_search', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_add_role_action.administrator', 'system.action.user_add_role_action.content_editor', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_remove_role_action.administrator', 'system.action.user_remove_role_action.content_editor', 'system.action.user_unblock_user_action', 'system.cron', 'system.date', 'system.diff', 'system.feature_flags', 'system.file', 'system.image', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'user.flood', 'user.mail', 'user.role.administrator', 'user.role.anonymous', 'user.role.authenticated', 'user.role.content_editor', 'user.settings', 'views.settings', 'views.view.archive', 'views.view.block_content', 'views.view.comment', 'views.view.comments_recent', 'views.view.content', 'views.view.content_recent', 'views.view.files', 'views.view.frontpage', 'views.view.glossary', 'views.view.taxonomy_term', 'views.view.user_admin_people', 'views.view.watchdog', 'views.view.who_s_new', 'views.view.who_s_online' );
+# Time: 2024-05-01T00:30:54.837650Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.000321  Lock_time: 0.000003 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523454;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:55.097912Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.005614  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 393
+SET timestamp=1714523455;
+DELETE FROM "router";
+# Time: 2024-05-01T00:30:55.258665Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.000928  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 66
+SET timestamp=1714523455;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('announcements_feed.announcement', 'block.admin_display', 'entity.block_content_type.collection', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.development_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'system.linkset_settings', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-05-01T00:30:55.769393Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.003080  Lock_time: 0.000026 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523455;
+DELETE FROM "history" 
+WHERE "timestamp" < '1711931454';
+# Time: 2024-05-01T00:30:55.805301Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.000967  Lock_time: 0.000005 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523455;
+SELECT "hsi"."sid" AS "sid", "hsi"."topic_id" AS "topic_id", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."permission" AS "permission"
+FROM
+"help_search_items" "hsi";
+# Time: 2024-05-01T00:30:55.808065Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.001642  Lock_time: 0.000005 Rows_sent: 85  Rows_examined: 85
+SET timestamp=1714523455;
+SELECT "hsi"."sid" AS "sid", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."topic_id" AS "topic_id"
+FROM
+"help_search_items" "hsi"
+LEFT OUTER JOIN "search_dataset" "sd" ON "sd"."sid" = "hsi"."sid" AND "sd"."type" = 'help_search'
+WHERE ("sd"."sid" IS NULL)
+GROUP BY "hsi"."sid", "hsi"."section_plugin_id", "hsi"."topic_id"
+LIMIT 100 OFFSET 0;
+# Time: 2024-05-01T00:30:55.809456Z
+# User@Host: drupal[drupal] @  [192.168.96.3]  Id:    22
+# Query_time: 0.000697  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714523455;
+SELECT "hsi"."sid" AS "sid", "hsi"."section_plugin_id" AS "section_plugin_id", "hsi"."topic_id" AS "topic_id"
+FROM
+"help_search_items" "hsi"
+LEFT OUTER JOIN "search_dataset" "sd" ON "sd"."sid" = "hsi"."sid" AND "sd"."type" = 'help_search'
+WHERE "sd"."reindex" <> '0'
+GROUP BY "hsi"."sid", "hsi"."section_plugin_id", "hsi"."topic_id"
+LIMIT 15 OFFSET 0;
