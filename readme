@@ -5,3 +5,4 @@ create a .env file which contains the database credentials
 run ansible playbook : 
 ansible-playbook -i ./../inventory docker.yml -K
 in the virtual box vm , chose either nat with nat forwarding enabled or bridge mode
+i used in my example NAT , so to ssh to the guest vm i use : ssh imane@127.0.0.1 -p 2222 
