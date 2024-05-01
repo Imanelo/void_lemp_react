@@ -1,0 +1,3 @@
+Build the project using : 
+docker-compose up --build -d
+create a .env file which contains the database credentials
