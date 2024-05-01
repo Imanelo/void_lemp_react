@@ -1,6 +1,6 @@
 ---
 - hosts: all
-  remote_user: ubuntu
+  remote_user: imane
   become: true
   tasks:
     - name: install dependencies
@@ -53,5 +53,5 @@
     - name: Change file ownership, group and permissions
       ansible.builtin.file:
         path: /usr/local/bin/docker-compose
-        owner: ubuntu
-        group: ubuntu
+        owner: imane
+        group: imane
