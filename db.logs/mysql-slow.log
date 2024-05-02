@@ -5419,3 +5419,549 @@ ORDER BY "depth" DESC;
 SET timestamp=1714531934;
 DELETE FROM "history" 
 WHERE "timestamp" < '1711939932';
+/usr/sbin/mysqld, Version: 8.0.37 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.37 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.37 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+# Time: 2024-05-02T11:10:40.004041Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     8
+# Query_time: 0.005842  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+use drupal;
+SET timestamp=1714648239;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:40.009598Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     8
+# Query_time: 0.004914  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648240;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:42.956961Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     9
+# Query_time: 0.005780  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648242;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:42.965282Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     9
+# Query_time: 0.008136  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648242;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:44.021528Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    10
+# Query_time: 0.031175  Lock_time: 0.000016 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648243;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:44.027782Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    10
+# Query_time: 0.005914  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648244;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:45.884102Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    11
+# Query_time: 0.007800  Lock_time: 0.000021 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648245;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:45.889987Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    11
+# Query_time: 0.005056  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648245;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:47.524252Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    12
+# Query_time: 0.005124  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648247;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:47.556131Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    12
+# Query_time: 0.031689  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648247;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:49.396726Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    13
+# Query_time: 0.007436  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648249;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:49.403213Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    13
+# Query_time: 0.006178  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648249;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:51.133300Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    14
+# Query_time: 0.005558  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648251;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:51.139176Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    14
+# Query_time: 0.005617  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648251;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:52.983905Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    15
+# Query_time: 0.006885  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648252;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:52.991106Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    15
+# Query_time: 0.006935  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648252;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:54.753390Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    16
+# Query_time: 0.006182  Lock_time: 0.000014 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648254;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:54.761479Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    16
+# Query_time: 0.006979  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648254;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:56.741307Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    17
+# Query_time: 0.006460  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648256;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:56.748450Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    17
+# Query_time: 0.006456  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648256;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:10:58.817150Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    18
+# Query_time: 0.006388  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648258;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:10:58.824459Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    18
+# Query_time: 0.006386  Lock_time: 0.000009 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648258;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:00.456238Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    19
+# Query_time: 0.006461  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648260;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:00.487375Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    19
+# Query_time: 0.030906  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648260;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:02.119641Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    20
+# Query_time: 0.012055  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648262;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:02.125135Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    20
+# Query_time: 0.005305  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648262;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:03.557727Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    21
+# Query_time: 0.005639  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648263;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:03.577823Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    21
+# Query_time: 0.019728  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648263;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:05.424244Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.005237  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648265;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:05.429826Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.005345  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648265;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:07.144079Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    23
+# Query_time: 0.006314  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648267;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:07.148811Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    23
+# Query_time: 0.004518  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648267;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:08.728211Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    24
+# Query_time: 0.005842  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648268;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:08.732534Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    24
+# Query_time: 0.004153  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648268;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:11.009022Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    25
+# Query_time: 0.005318  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648271;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:11.013754Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    25
+# Query_time: 0.004550  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648271;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:12.196173Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    26
+# Query_time: 0.031318  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648272;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:12.203722Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    26
+# Query_time: 0.007117  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648272;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:12.889727Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    27
+# Query_time: 0.005320  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648272;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:11:12.896347Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    27
+# Query_time: 0.006144  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648272;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:11:19.029539Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    27
+# Query_time: 0.002798  Lock_time: 0.000013 Rows_sent: 63  Rows_examined: 179
+SET timestamp=1714648279;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'automated_cron.settings', 'comment.settings', 'contact.settings', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.short', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.plain_text', 'image.settings', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'rdf.mapping.user.user', 'search.page.node_search', 'search.page.user_search', 'search.settings', 'seven.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_unblock_user_action', 'system.authorize', 'system.cron', 'system.diff', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.performance', 'system.rss', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'tour.tour.block-layout', 'tour.tour.views-ui', 'user.flood', 'user.mail' );
+# Time: 2024-05-02T11:19:33.752688Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    28
+# Query_time: 0.001725  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714648773;
+DELETE FROM "history" 
+WHERE "timestamp" < '1712056772';
+# Time: 2024-05-02T11:20:40.533089Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    35
+# Query_time: 0.005276  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648840;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:20:40.537688Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    35
+# Query_time: 0.004412  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648840;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:20:41.157539Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    35
+# Query_time: 0.001532  Lock_time: 0.000003 Rows_sent: 161  Rows_examined: 180
+SET timestamp=1714648841;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'automated_cron.settings', 'block.block.bartik_account_menu', 'block.block.bartik_branding', 'block.block.bartik_breadcrumbs', 'block.block.bartik_content', 'block.block.bartik_footer', 'block.block.bartik_help', 'block.block.bartik_local_actions', 'block.block.bartik_local_tasks', 'block.block.bartik_main_menu', 'block.block.bartik_messages', 'block.block.bartik_page_title', 'block.block.bartik_powered', 'block.block.bartik_search', 'block.block.bartik_tools', 'block.block.seven_breadcrumbs', 'block.block.seven_content', 'block.block.seven_help', 'block.block.seven_local_actions', 'block.block.seven_messages', 'block.block.seven_page_title', 'block.block.seven_primary_local_tasks', 'block.block.seven_secondary_local_tasks', 'comment.settings', 'contact.settings', 'core.base_field_override.node.page.promote', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.short', 'core.entity_form_display.block_content.basic.default', 'core.entity_form_display.comment.comment.default', 'core.entity_form_display.node.article.default', 'core.entity_form_display.node.page.default', 'core.entity_form_display.user.user.default', 'core.entity_form_mode.user.register', 'core.entity_view_display.block_content.basic.default', 'core.entity_view_display.comment.comment.default', 'core.entity_view_display.node.article.default', 'core.entity_view_display.node.article.rss', 'core.entity_view_display.node.article.teaser', 'core.entity_view_display.node.page.default', 'core.entity_view_display.node.page.teaser', 'core.entity_view_display.user.user.compact', 'core.entity_view_display.user.user.default', 'core.entity_view_mode.block_content.full', 'core.entity_view_mode.comment.full', 'core.entity_view_mode.node.full', 'core.entity_view_mode.node.rss', 'core.entity_view_mode.node.search_index', 'core.entity_view_mode.node.search_result', 'core.entity_view_mode.node.teaser', 'core.entity_view_mode.taxonomy_term.full', 'core.entity_view_mode.user.compact', 'core.entity_view_mode.user.full', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'editor.editor.basic_html', 'editor.editor.full_html', 'field.field.block_content.basic.body', 'field.field.comment.comment.comment_body', 'field.field.node.article.body', 'field.field.node.article.comment', 'field.field.node.article.field_image', 'field.field.node.article.field_tags', 'field.field.node.page.body', 'field.field.user.user.user_picture', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.basic_html', 'filter.format.full_html', 'filter.format.plain_text', 'filter.format.restricted_html', 'filter.settings', 'image.settings', 'image.style.large', 'image.style.medium', 'image.style.thumbnail', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'rdf.mapping.comment.comment', 'rdf.mapping.node.article', 'rdf.mapping.node.page', 'rdf.mapping.taxonomy_term.tags', 'rdf.mapping.user.user', 'search.page.node_search', 'search.page.user_search', 'search.settings', 'seven.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_add_role_action.administrator', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_remove_role_action.administrator', 'system.action.user_unblock_user_action', 'system.authorize', 'system.cron', 'system.date', 'system.diff', 'system.file', 'system.image', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'tour.tour.block-layout', 'tour.tour.views-ui', 'user.flood', 'user.mail', 'user.role.administrator', 'user.role.anonymous', 'user.role.authenticated', 'user.settings', 'views.view.archive', 'views.view.block_content', 'views.view.comment', 'views.view.comments_recent', 'views.view.content', 'views.view.content_recent', 'views.view.files', 'views.view.frontpage', 'views.view.glossary', 'views.view.taxonomy_term', 'views.view.user_admin_people', 'views.view.watchdog', 'views.view.who_s_new', 'views.view.who_s_online' );
+# Time: 2024-05-02T11:20:42.688743Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    35
+# Query_time: 0.002281  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 62
+SET timestamp=1714648842;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('block.admin_display', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-05-02T11:20:42.759005Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    35
+# Query_time: 0.000705  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714648842;
+DELETE FROM "history" 
+WHERE "timestamp" < '1712056840';
+# Time: 2024-05-02T11:21:54.504543Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    37
+# Query_time: 0.004882  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714648914;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:21:54.510065Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    37
+# Query_time: 0.005276  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714648914;
+DELETE FROM "drupal_install_test";
+/usr/sbin/mysqld, Version: 8.0.37 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.37 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+/usr/sbin/mysqld, Version: 8.0.37 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+# Time: 2024-05-02T11:35:46.701943Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     8
+# Query_time: 0.004566  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+use drupal;
+SET timestamp=1714649746;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:46.706069Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     8
+# Query_time: 0.003883  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649746;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:49.232012Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     9
+# Query_time: 0.007101  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649749;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:49.237378Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:     9
+# Query_time: 0.005048  Lock_time: 0.000026 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649749;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:49.953805Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    10
+# Query_time: 0.005133  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649749;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:49.959700Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    10
+# Query_time: 0.005607  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649749;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:51.501269Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    11
+# Query_time: 0.004495  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649751;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:51.505633Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    11
+# Query_time: 0.004186  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649751;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:52.892576Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    12
+# Query_time: 0.004325  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649752;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:52.897825Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    12
+# Query_time: 0.005090  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649752;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:54.396999Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    13
+# Query_time: 0.006304  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649754;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:54.402119Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    13
+# Query_time: 0.004683  Lock_time: 0.000006 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649754;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:56.606571Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    14
+# Query_time: 0.006572  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649756;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:56.611504Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    14
+# Query_time: 0.004664  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649756;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:35:58.412909Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    15
+# Query_time: 0.006045  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649758;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:35:58.418038Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    15
+# Query_time: 0.004830  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649758;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:00.295525Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    16
+# Query_time: 0.004370  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649760;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:00.300657Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    16
+# Query_time: 0.004895  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649760;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:02.725362Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    17
+# Query_time: 0.004549  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649762;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:02.729552Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    17
+# Query_time: 0.004056  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649762;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:04.816915Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    18
+# Query_time: 0.004881  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649764;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:04.823578Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    18
+# Query_time: 0.006476  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649764;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:07.009000Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    19
+# Query_time: 0.005150  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649767;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:07.015163Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    19
+# Query_time: 0.005635  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649767;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:07.762193Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    20
+# Query_time: 0.006867  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649767;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:07.767334Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    20
+# Query_time: 0.004660  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649767;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:08.168702Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    21
+# Query_time: 0.004840  Lock_time: 0.000005 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649768;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:08.173972Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    21
+# Query_time: 0.004919  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649768;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:12.749990Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    21
+# Query_time: 0.001403  Lock_time: 0.000005 Rows_sent: 63  Rows_examined: 179
+SET timestamp=1714649772;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'automated_cron.settings', 'comment.settings', 'contact.settings', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.short', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.plain_text', 'image.settings', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'rdf.mapping.user.user', 'search.page.node_search', 'search.page.user_search', 'search.settings', 'seven.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_unblock_user_action', 'system.authorize', 'system.cron', 'system.diff', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.performance', 'system.rss', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'tour.tour.block-layout', 'tour.tour.views-ui', 'user.flood', 'user.mail' );
+# Time: 2024-05-02T11:36:40.065694Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.006193  Lock_time: 0.000007 Rows_sent: 0  Rows_examined: 2
+SET timestamp=1714649800;
+UPDATE "drupal_install_test" SET id = 2;
+# Time: 2024-05-02T11:36:40.071990Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.005735  Lock_time: 0.000010 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1714649800;
+DELETE FROM "drupal_install_test";
+# Time: 2024-05-02T11:36:40.700493Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.002480  Lock_time: 0.000008 Rows_sent: 161  Rows_examined: 180
+SET timestamp=1714649800;
+SELECT "name", "data" FROM "config" WHERE "collection" = '' AND "name" IN ( 'automated_cron.settings', 'block.block.bartik_account_menu', 'block.block.bartik_branding', 'block.block.bartik_breadcrumbs', 'block.block.bartik_content', 'block.block.bartik_footer', 'block.block.bartik_help', 'block.block.bartik_local_actions', 'block.block.bartik_local_tasks', 'block.block.bartik_main_menu', 'block.block.bartik_messages', 'block.block.bartik_page_title', 'block.block.bartik_powered', 'block.block.bartik_search', 'block.block.bartik_tools', 'block.block.seven_breadcrumbs', 'block.block.seven_content', 'block.block.seven_help', 'block.block.seven_local_actions', 'block.block.seven_messages', 'block.block.seven_page_title', 'block.block.seven_primary_local_tasks', 'block.block.seven_secondary_local_tasks', 'comment.settings', 'contact.settings', 'core.base_field_override.node.page.promote', 'core.date_format.fallback', 'core.date_format.html_date', 'core.date_format.html_datetime', 'core.date_format.html_month', 'core.date_format.html_time', 'core.date_format.html_week', 'core.date_format.html_year', 'core.date_format.html_yearless_date', 'core.date_format.long', 'core.date_format.medium', 'core.date_format.short', 'core.entity_form_display.block_content.basic.default', 'core.entity_form_display.comment.comment.default', 'core.entity_form_display.node.article.default', 'core.entity_form_display.node.page.default', 'core.entity_form_display.user.user.default', 'core.entity_form_mode.user.register', 'core.entity_view_display.block_content.basic.default', 'core.entity_view_display.comment.comment.default', 'core.entity_view_display.node.article.default', 'core.entity_view_display.node.article.rss', 'core.entity_view_display.node.article.teaser', 'core.entity_view_display.node.page.default', 'core.entity_view_display.node.page.teaser', 'core.entity_view_display.user.user.compact', 'core.entity_view_display.user.user.default', 'core.entity_view_mode.block_content.full', 'core.entity_view_mode.comment.full', 'core.entity_view_mode.node.full', 'core.entity_view_mode.node.rss', 'core.entity_view_mode.node.search_index', 'core.entity_view_mode.node.search_result', 'core.entity_view_mode.node.teaser', 'core.entity_view_mode.taxonomy_term.full', 'core.entity_view_mode.user.compact', 'core.entity_view_mode.user.full', 'core.menu.static_menu_link_overrides', 'dblog.settings', 'editor.editor.basic_html', 'editor.editor.full_html', 'field.field.block_content.basic.body', 'field.field.comment.comment.comment_body', 'field.field.node.article.body', 'field.field.node.article.comment', 'field.field.node.article.field_image', 'field.field.node.article.field_tags', 'field.field.node.page.body', 'field.field.user.user.user_picture', 'field.settings', 'field_ui.settings', 'file.settings', 'filter.format.basic_html', 'filter.format.full_html', 'filter.format.plain_text', 'filter.format.restricted_html', 'filter.settings', 'image.settings', 'image.style.large', 'image.style.medium', 'image.style.thumbnail', 'image.style.wide', 'menu_ui.settings', 'node.settings', 'rdf.mapping.comment.comment', 'rdf.mapping.node.article', 'rdf.mapping.node.page', 'rdf.mapping.taxonomy_term.tags', 'rdf.mapping.user.user', 'search.page.node_search', 'search.page.user_search', 'search.settings', 'seven.settings', 'system.action.comment_delete_action', 'system.action.comment_publish_action', 'system.action.comment_save_action', 'system.action.comment_unpublish_action', 'system.action.node_delete_action', 'system.action.node_make_sticky_action', 'system.action.node_make_unsticky_action', 'system.action.node_promote_action', 'system.action.node_publish_action', 'system.action.node_save_action', 'system.action.node_unpromote_action', 'system.action.node_unpublish_action', 'system.action.taxonomy_term_publish_action', 'system.action.taxonomy_term_unpublish_action', 'system.action.user_add_role_action.administrator', 'system.action.user_block_user_action', 'system.action.user_cancel_user_action', 'system.action.user_remove_role_action.administrator', 'system.action.user_unblock_user_action', 'system.authorize', 'system.cron', 'system.date', 'system.diff', 'system.file', 'system.image', 'system.image.gd', 'system.logging', 'system.mail', 'system.maintenance', 'system.menu.account', 'system.menu.admin', 'system.menu.footer', 'system.menu.main', 'system.menu.tools', 'system.performance', 'system.rss', 'system.site', 'system.theme', 'system.theme.global', 'taxonomy.settings', 'text.settings', 'tour.tour.block-layout', 'tour.tour.views-ui', 'user.flood', 'user.mail', 'user.role.administrator', 'user.role.anonymous', 'user.role.authenticated', 'user.settings', 'views.view.archive', 'views.view.block_content', 'views.view.comment', 'views.view.comments_recent', 'views.view.content', 'views.view.content_recent', 'views.view.files', 'views.view.frontpage', 'views.view.glossary', 'views.view.taxonomy_term', 'views.view.user_admin_people', 'views.view.watchdog', 'views.view.who_s_new', 'views.view.who_s_online' );
+# Time: 2024-05-02T11:36:42.241566Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.002931  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 62
+SET timestamp=1714649802;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('block.admin_display', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-05-02T11:36:42.335469Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    22
+# Query_time: 0.002057  Lock_time: 0.000019 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714649802;
+DELETE FROM "history" 
+WHERE "timestamp" < '1712057799';
+# Time: 2024-05-02T11:38:07.500252Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    27
+# Query_time: 0.000435  Lock_time: 0.000003 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1714649887;
+SELECT COUNT(*) AS "expression"
+FROM
+(SELECT 1 AS "expression"
+FROM
+"node_field_data" "node_field_data"
+INNER JOIN "users_field_data" "users_field_data_node_field_data" ON node_field_data.uid = users_field_data_node_field_data.uid
+WHERE (node_field_data.status = 1 OR (node_field_data.uid = 1 AND 1 <> 0 AND 1 = 1) OR 1 = 1)) "subquery";
+# Time: 2024-05-02T11:38:07.501175Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    27
+# Query_time: 0.000644  Lock_time: 0.000008 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714649887;
+SELECT "node_field_data"."nid" AS "nid", "users_field_data_node_field_data"."uid" AS "users_field_data_node_field_data_uid"
+FROM
+"node_field_data" "node_field_data"
+INNER JOIN "users_field_data" "users_field_data_node_field_data" ON node_field_data.uid = users_field_data_node_field_data.uid
+WHERE (node_field_data.status = 1 OR (node_field_data.uid = 1 AND 1 <> 0 AND 1 = 1) OR 1 = 1)
+ORDER BY "node_field_data"."changed" DESC
+LIMIT 50 OFFSET 0;
+# Time: 2024-05-02T11:38:41.278216Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    28
+# Query_time: 0.000335  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1714649921;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node_list', 'rendered' );
+# Time: 2024-05-02T11:50:02.051322Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    29
+# Query_time: 0.010902  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 364
+SET timestamp=1714650602;
+DELETE FROM "router";
+# Time: 2024-05-02T11:50:02.315751Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    29
+# Query_time: 0.001185  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 63
+SET timestamp=1714650602;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('block.admin_display', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'jsonapi.settings', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-05-02T11:50:02.317265Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    29
+# Query_time: 0.000907  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 7
+SET timestamp=1714650602;
+UPDATE "cache_menu" SET "expire"='1714650596';
+# Time: 2024-05-02T11:50:45.431107Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    36
+# Query_time: 0.014610  Lock_time: 0.000004 Rows_sent: 0  Rows_examined: 582
+SET timestamp=1714650645;
+DELETE FROM "router";
+# Time: 2024-05-02T11:50:45.820083Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    36
+# Query_time: 0.001715  Lock_time: 0.000003 Rows_sent: 0  Rows_examined: 63
+SET timestamp=1714650645;
+SELECT "menu_tree"."id" AS "id"
+FROM
+"menu_tree" "menu_tree"
+WHERE ("discovered" = '1') AND ("id" NOT IN ('block.admin_display', 'comment.admin', 'entity.comment_type.collection', 'config.sync', 'entity.contact_form.collection', 'contact.site_page', 'dblog.overview', 'dblog.page_not_found', 'dblog.access_denied', 'entity.field_storage_config.collection', 'field_ui.display_mode', 'entity.entity_view_mode.collection', 'entity.entity_form_mode.collection', 'filter.tips_all', 'filter.admin_overview', 'help.main', 'entity.image_style.collection', 'jsonapi.settings', 'entity.menu.collection', 'entity.node_type.collection', 'node.add_page', 'entity.path_alias.collection', 'search.view', 'entity.search_page.collection', 'entity.shortcut_set.collection', 'system.admin', 'system.admin_content', 'system.admin_structure', 'system.themes_page', 'system.modules_list', 'system.admin_config', 'system.admin_config_media', 'system.file_system_settings', 'system.image_toolkit_settings', 'system.admin_config_services', 'system.rss_feeds_settings', 'system.admin_config_development', 'system.site_maintenance_mode', 'system.performance_settings', 'system.logging_settings', 'system.admin_config_regional', 'system.regional_settings', 'entity.date_format.collection', 'system.admin_config_search', 'system.admin_config_system', 'system.site_information_settings', 'system.cron_settings', 'system.admin_config_ui', 'system.admin_config_workflow', 'system.admin_config_content', 'system.admin_reports', 'system.status', 'entity.taxonomy_vocabulary.collection', 'update.status', 'user.page', 'user.logout', 'entity.user.collection', 'user.admin_index', 'entity.user.admin_form', 'entity.view.collection', 'views_ui.reports_plugins', 'standard.front_page', 'dblog.search'))
+ORDER BY "depth" DESC;
+# Time: 2024-05-02T11:50:45.823682Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    36
+# Query_time: 0.002610  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 13
+SET timestamp=1714650645;
+UPDATE "cache_menu" SET "expire"='1714650642';
+# Time: 2024-05-02T12:07:12.898016Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    53
+# Query_time: 0.000504  Lock_time: 0.000003 Rows_sent: 7  Rows_examined: 28
+SET timestamp=1714651632;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node_list', 'rendered' );
+# Time: 2024-05-02T12:16:02.013795Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    57
+# Query_time: 0.000490  Lock_time: 0.000001 Rows_sent: 8  Rows_examined: 28
+SET timestamp=1714652162;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:filter.format.basic_html', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node:1', 'node_list', 'node_view', 'rendered', 'user:1', 'user_view' );
+# Time: 2024-05-02T12:23:49.541013Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    61
+# Query_time: 0.000268  Lock_time: 0.000002 Rows_sent: 8  Rows_examined: 28
+SET timestamp=1714652629;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:filter.format.basic_html', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node:1', 'node_list', 'node_view', 'rendered', 'user:1', 'user_view' );
+# Time: 2024-05-02T12:25:26.059841Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    65
+# Query_time: 0.000440  Lock_time: 0.000003 Rows_sent: 8  Rows_examined: 28
+SET timestamp=1714652726;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:filter.format.basic_html', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node:1', 'node_list', 'node_view', 'rendered', 'user:1', 'user_view' );
+# Time: 2024-05-02T12:39:41.492872Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    70
+# Query_time: 0.001678  Lock_time: 0.000002 Rows_sent: 8  Rows_examined: 28
+SET timestamp=1714653581;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:filter.format.basic_html', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node:1', 'node_list', 'node_view', 'rendered', 'user:1', 'user_view' );
+# Time: 2024-05-02T12:39:53.514354Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    76
+# Query_time: 0.001228  Lock_time: 0.000003 Rows_sent: 8  Rows_examined: 28
+SET timestamp=1714653593;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:filter.format.basic_html', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node:1', 'node_list', 'node_view', 'rendered', 'user:1', 'user_view' );
+# Time: 2024-05-02T12:44:16.897573Z
+# User@Host: drupal[drupal] @  [192.168.176.3]  Id:    81
+# Query_time: 0.000601  Lock_time: 0.000003 Rows_sent: 8  Rows_examined: 28
+SET timestamp=1714653856;
+SELECT "tag", "invalidations" FROM "cachetags" WHERE "tag" IN ( 'block_view', 'config:block.block.bartik_account_menu', 'config:block.block.bartik_branding', 'config:block.block.bartik_breadcrumbs', 'config:block.block.bartik_content', 'config:block.block.bartik_footer', 'config:block.block.bartik_help', 'config:block.block.bartik_local_actions', 'config:block.block.bartik_local_tasks', 'config:block.block.bartik_main_menu', 'config:block.block.bartik_messages', 'config:block.block.bartik_page_title', 'config:block.block.bartik_powered', 'config:block.block.bartik_search', 'config:block.block.bartik_tools', 'config:block_list', 'config:color.theme.bartik', 'config:filter.format.basic_html', 'config:system.menu.account', 'config:system.menu.admin', 'config:system.menu.footer', 'config:system.menu.main', 'config:system.menu.tools', 'config:system.site', 'config:system.theme', 'config:views.view.frontpage', 'local_task', 'node:1', 'node_list', 'node_view', 'rendered', 'user:1', 'user_view' );
